@@ -1,0 +1,30 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id         String   @id @default(uuid())
+  discordId  String   @unique @map("discord_id")
+  createdAt  DateTime @default(now()) @map("created_at")
+  updatedAt  DateTime @updatedAt @map("updated_at")
+  privyId    String   @unique @map("privy_id")
+  solAddress String   @unique @map("sol_address")
+
+  @@map("users")
+}
+
+model ErrorLog {
+  id        String   @id @default(uuid())
+  command   String
+  error     String
+  stack     String?
+  userId    String   @map("user_id")
+  timestamp DateTime @default(now())
+
+  @@map("error_logs")
+}
