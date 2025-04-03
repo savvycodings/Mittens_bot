@@ -1,3 +1,11 @@
+```ascii
+     /\___/\  
+    (  o o  )     ╔════════════════════════╗
+    (  =^=  ) ═══>║      MITTENS BOT      ║
+     (---)---     ╚════════════════════════╝
+                  Your Solana Trading Companion
+```
+
 # Mittens - Solana SPL-Token Trading Bot for Discord
 
 A powerful and secure Solana-based trading bot for Discord, enabling real-time SPL-token trading, secure transactions, and portfolio management. Currently serving a thriving community of over 600 members.
