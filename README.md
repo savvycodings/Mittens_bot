@@ -2,7 +2,7 @@
 
 A powerful and secure Solana-based trading bot for Discord, enabling real-time SPL-token trading, secure transactions, and portfolio management. Currently serving a thriving community of over 600 members.
 
-## 🚀 Features
+## Features
 - **Real-time Trading**: Trade SPL tokens directly from Discord
 - **Secure Transactions**: Transactions are processed securely on the Solana blockchain
 - **Portfolio Management**: Track and manage your SPL-token holdings
@@ -10,7 +10,7 @@ A powerful and secure Solana-based trading bot for Discord, enabling real-time S
 - **Optimized for Discord**: Uses Discord.js for seamless integration
 - **Powered by Privy**: Ensures secure wallet management and transaction signing
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Solana**: For blockchain transactions and token swaps
 - **Discord.js**: To build the bot and handle user interactions
 - **Privy**: For secure wallet management and transaction signing
@@ -19,7 +19,7 @@ A powerful and secure Solana-based trading bot for Discord, enabling real-time S
 - **Supabase**: PostgreSQL database for user data storage
 - **Prisma**: Type-safe ORM for database operations
 
-## 📜 Usage
+## Usage
 ### Commands
 | Command    | Description                           |
 |------------|---------------------------------------|
@@ -28,15 +28,15 @@ A powerful and secure Solana-based trading bot for Discord, enabling real-time S
 | `/transfer`| Transfer SOL to another wallet       |
 | `/wallet`  | Get wallet and portfolio details     |
 
-## 🌐 Network
+## Network
 Currently running on Solana mainnet-beta. All transactions can be viewed on:
 - [Solscan](https://solscan.io)
 - [Solana Explorer](https://explorer.solana.com)
 
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## 📞 Contact
+## Contact
 For questions or support, reach out via:
 - Twitter: [@zk_kyle_](https://twitter.com/zk_kyle_)
 - Email: zkkylenoome@gmail.com
