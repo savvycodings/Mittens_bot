@@ -2,6 +2,16 @@
 
 A powerful and secure Solana-based trading bot for Discord, enabling real-time SPL-token trading, secure transactions, and portfolio management. Currently serving a thriving community of over 600 members.
 
+## 💻 Command Preview
+Here's how Mittens works in your Discord server:
+
+![Discord Commands Preview](./assets/discord-preview.png)
+
+As shown above, Mittens provides an intuitive interface:
+- `/login` - Creates your Solana wallet and shows your unique address
+- `/wallet` - Displays your wallet address and current portfolio summary
+- All responses are clear and user-friendly with proper formatting
+
 ## Features
 - **Real-time Trading**: Trade SPL tokens directly from Discord
 - **Secure Transactions**: Transactions are processed securely on the Solana blockchain
