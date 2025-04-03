@@ -5,7 +5,7 @@ A powerful and secure Solana-based trading bot for Discord, enabling real-time S
 ## 💻 Command Preview
 Here's how Mittens works in your Discord server:
 
-![Discord Commands Preview](./assets/discord-preview.png)
+![Discord Commands Preview](./assets/image.png)
 
 As shown above, Mittens provides an intuitive interface:
 - `/login` - Creates your Solana wallet and shows your unique address
